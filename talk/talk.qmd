@@ -1,0 +1,297 @@
+---
+title: "Student Aided Magnetic Mapping"
+author: Evelyn J. Boettcher
+date: May 5th, 2023
+subtitle: "Using Variations in Magnetic Field for Navigation"
+title-slide-attributes:
+    data-background-image: 'img/solar_mag_field.png'
+    data-background-size: "100% 80% "
+    data-background-position: "0% "
+    data-background-opacity: "0.95"
+bibliography: references.bib
+
+format:
+    revealjs:
+        incremental: false
+
+fig-cap-location: margin
+---
+
+## Outline
+
+::: columns
+::: {.column width="49%"}
+-   Why is a magnetic anomoly map needed
+-   What is magnetic anomoly
+-   How are magnetic maps made now
+-   How students contribute to science
+    -   Targeted grades 8-10
+-   What students gain
+    -   Paided Milestone achievements
+    -   Scienific contributer
+    -   Science mentors near their age
+-   How to be involved
+:::
+
+::: {.column width="49%"}
+![](img/EarthBarMag.png) (@bluemarble)
+:::
+:::
+
+## Why Magnetic Anomoly Map are needed
+
+## Why Magnetic Anomoly Map are needed
+
+### Pirates!
+
+::: columns
+::: {.column width="49%"}
+![](img/DALL-E-pirateboatcargoshipocean.png) (@dall-e)
+:::
+
+::: {.column width="49%"}
+![](img/DALL-E-piratesstealingtv.png) (@dall-e)
+:::
+:::
+
+## Need Non GPS Navigation
+
+Magnetic maps are needed for navigation in non GPS environments.
+
+<br>
+
+### In GPS Environments
+
+<br> It is too easy for bad actors (aka Pirates) to spoof GPS signals to divert cargo ships or airplanes. There are growing concerns that the shipping industry is vulnerable to GPS spoofing (@shipGPSspoof)
+
+<br>
+
+::: columns
+::: {.column width="54%"}
+GPS spoofing has the real risk of keeping ships at sea longer than necessary, or even causing ships to collide.
+
+<br> These same concerns are amplified in the air industry where planes have the additional worry of being tricked into flying into dangerous no fly zones.
+:::
+
+::: {.column width="45%"}
+#### GPS: Proceed for 10 more miles
+
+![GPS:Proceed for 10 more miles](./img/deathbygps.png) (@DeathbyGPS)
+:::
+:::
+
+------------------------------------------------------------------------
+
+### Earth's Magnetic Field
+
+![](img/solarexp.jpg) (@sunEarthField)
+
+## Earth's Magnetic Field
+
+::: columns
+::: {.column width="42%"}
+![](img/EarthBarMag.png) @bluemarble
+
+-   Earth Field: 25,000nT - 65,000nT (nanotesla)
+-   MRI's: 1 Tesla = 1,000,000,000 nT
+:::
+
+::: {.column width="55%"}
+![](img/EarthIField.png) @millerMag
+:::
+:::
+
+## Magnetic Anomoly
+
+The Earth's Magnetic Field has variations do to field locked in it's crust.
+
+-   These fields change very slowly
+    -   Geologic Timescale (\~20,000 year time scale)
+
+![](img/editted_usa_only.jpg){width="90%"} @usamagmap
+
+## Magnetic Anomoly
+
+::: columns
+::: {.column width="62%"}
+<br>
+
+### Magnetic Field Strengths
+
+-   Earth Field: 25,000nT - 65,000nT (nanotesla)
+-   Bar Magnet = 1,000,000nT (200X Earth Field)
+-   MRI's: 1 Tesla (40,000X Earths Field)
+:::
+
+::: {.column width="30%"}
+![](img/EarthBarMag.png){width="80%"} (@bluemarble)
+:::
+:::
+
+::: columns
+::: {.column width="57%"}
+#### Crustal Magnetic Anomaly
+
+-   $\pm$ 500nT
+
+### Anomaly is much, <br> much smaller!
+:::
+
+::: {.column width="42%"}
+![](img/editted_usa_only.jpg) (@usamagmap)
+:::
+:::
+
+## Why make another map
+
+<br>
+
+Current maps are low resolution.
+
+<br> Need higher resolutions for navigation
+
+## Why Higher Resolutions
+
+### Can you use this map to drive to the grocery store?
+
+::: columns
+:::: {.column width="49%"}
+![](img/google_map_usa.png) @googlemap
+::::
+:::: {.column width="49%"}
+![](img/editted_usa_only.jpg) @usamagmap
+::::
+:::
+
+## How a Magnetic Maps are Made Now
+
+
+:::{.columns}
+::::{.column width=60%}
+Maps are made using special equipted planes.
+
+<br>
+<br>
+
+
+* It is a slow process and 
+* Data needs to be cleaned to remove the plane's magnetic field.
+
+::::
+::::{.column width=39%}
+
+![alt](img/SGL_cesna_over_mag_map.png)
+@nielsen
+ 
+::::
+:::
+
+:::{.columns}
+::::{.column width=49%}
+
+![](img/evelyn_c17.jpeg)
+@c17
+
+::::
+::::{.column width=49%}
+
+
+![](img/DALL-Eplanemagneticfieldlines-geomancy.png)@dall-e
+ 
+::::
+:::
+
+## Solution
+
+---
+
+
+### 99 Weather Balloon
+
+![alt](img/DALL-E-weatherballoonsensorpayload.png)@dall-e
+
+## How Far can they go
+
+These balloons can circumnavigate the world several times 
+
+![](img/picoBallon_world_circum.png)@picoballon
+
+
+## STEM Issues
+
+Many students do not see the value nor the purpose of a STEM education.  
+<br>
+
+### Why no interest? 
+
+* STEM activities tend to be focused on a single aspect of a scientific field. 
+    * Students do not shout out Eureka after seeing how many pennies an aluminum boat can hold. They simply record the number of pennies and wonder how this knowledge is useful in the real world.
+* Few opportunities for students to see how scientists do experiments to make the world better.   
+* Few interactions with Scientist, especially in lower income brackets,
+   *   One needs role models to help one visualize that this career can be for them. 
+* Don't see how one can make a living doing science.  
+    
+
+## STEM Magnetic Mapping
+
+This STEM project is designed to address these issues.  
+
+<br>
+
+It involves multiple fields of science and engineering: 
+
+* Earth Science, 
+* Physical Science and 
+* Electrical and Mechanical Engineering 
+
+Integrated into a single project for students grades eight through ten.  
+
+<br>
+It also rewards (via milestone achievements rewards: cash and/or prizes) for their work and their measurements supply scientists with information needed to make magnetic maps.  
+
+<br>
+Lastly, students are guided by college student mentors in a STEM field so that they can see people close to their age going into this field.
+
+
+
+## Student
+
+:::{.columns}
+::::{.column width=10%}
+
+::::
+::::{.column width=80%}
+![](img/STEM_MagMeasurement-2023%20(1).png) 
+::::
+:::
+
+
+
+## How to be involved
+
+:::{.columns}
+::::{.column width=70%}
+Looking for Ohio schools teachers to partner with to:
+
+* Evaluate kits 2023-2024
+
+<br>
+
+### Contact
+
+#### Evelyn J. Boettcher
+#### Evelyn.boettcher@didactex.com
+
+::::
+::::{.column width=29%}
+![](img/DiDacTex_QR.png)
+ 
+::::
+:::
+
+### Magnetic Anomally Mapping for Safer Navigation
+
+
+---
+
+## References

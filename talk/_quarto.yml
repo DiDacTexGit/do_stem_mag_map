@@ -1,0 +1,29 @@
+project:
+  title: "DO STEM"
+  output-dir: ../docs
+  type: website
+
+
+format:
+  html:
+    code-fold: true
+    html-math-method: katex
+
+  revealjs:
+    theme: [default, evelyn.scss]
+    css: evelyn.css
+    logo: 'img/DDT_Logo_wo_Bk.png'
+    footer: "STEM MAG MAPPING"
+    scrollable: true
+    transition: slide
+    transition-speed: fast
+    chalkboard:
+      buttons: true
+
+execute:
+  echo: true
+  output: true
+  error: true
+
+jupyter: python3
+
