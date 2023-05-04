@@ -27,8 +27,8 @@ fig-cap-location: margin
 -   How students contribute to science
     -   Targeted grades 8-10
 -   What students gain
-    -   Paided Milestone achievements
-    -   Scienific contributer
+    -   Paided milestone achievements
+    -   Scienific contributor
     -   Science mentors near their age
 -   How to be involved
 :::
@@ -38,9 +38,9 @@ fig-cap-location: margin
 :::
 :::
 
-## Why Magnetic Anomoly Map are needed
+## Why Magnetic Anomoly Map <br>are needed
 
-## Why Magnetic Anomoly Map are needed
+## Why Magnetic Anomoly Map <br>are needed
 
 ### Pirates!
 
@@ -54,13 +54,8 @@ fig-cap-location: margin
 :::
 :::
 
-## Need Non GPS Navigation
+## GPS is not Always Reliable
 
-Magnetic maps are needed for navigation in non GPS environments.
-
-<br>
-
-### In GPS Environments
 
 <br> It is too easy for bad actors (aka Pirates) to spoof GPS signals to divert cargo ships or airplanes. There are growing concerns that the shipping industry is vulnerable to GPS spoofing (@shipGPSspoof)
 
@@ -70,7 +65,7 @@ Magnetic maps are needed for navigation in non GPS environments.
 ::: {.column width="54%"}
 GPS spoofing has the real risk of keeping ships at sea longer than necessary, or even causing ships to collide.
 
-<br> These same concerns are amplified in the air industry where planes have the additional worry of being tricked into flying into dangerous no fly zones.
+<br> These same concerns are amplified in the aviation industry. In addition, Planes have the additional worry of being tricked into flying into dangerous no fly zones.
 :::
 
 ::: {.column width="45%"}
@@ -84,7 +79,8 @@ GPS spoofing has the real risk of keeping ships at sea longer than necessary, or
 
 ### Earth's Magnetic Field
 
-![](img/solarexp.jpg) (@sunEarthField)
+![](img/solarexp.jpg){width=80%} 
+@sunEarthmag
 
 ## Earth's Magnetic Field
 
@@ -108,7 +104,7 @@ The Earth's Magnetic Field has variations do to field locked in it's crust.
 -   These fields change very slowly
     -   Geologic Timescale (\~20,000 year time scale)
 
-![](img/editted_usa_only.jpg){width="90%"} @usamagmap
+![](img/editted_usa_only.jpg){width="75%"} @usamagmap
 
 ## Magnetic Anomoly
 
@@ -168,20 +164,25 @@ Current maps are low resolution.
 
 :::{.columns}
 ::::{.column width=60%}
-Maps are made using special equipted planes.
+Maps are made using special equipped planes.
 
 <br>
 <br>
 
 
 * It is a slow process and 
-* Data needs to be cleaned to remove the plane's magnetic field.
+* Data needs to be cleaned to remove the <br>plane's magnetic field.
 
 ::::
-::::{.column width=39%}
+::::{.column width=35%}
 
 ![alt](img/SGL_cesna_over_mag_map.png)
 @nielsen
+ 
+::::
+::::{.column width=5%}
+
+
  
 ::::
 :::
@@ -189,14 +190,14 @@ Maps are made using special equipted planes.
 :::{.columns}
 ::::{.column width=49%}
 
-![](img/evelyn_c17.jpeg)
+![](img/evelyn_c17.jpeg){width=90%} 
 @c17
 
 ::::
 ::::{.column width=49%}
 
 
-![](img/DALL-Eplanemagneticfieldlines-geomancy.png)@dall-e
+![](img/DALL-Eplanemagneticfieldlines-geomancy.png){width=76%} @dall-e
  
 ::::
 :::
@@ -208,29 +209,35 @@ Maps are made using special equipted planes.
 
 ### 99 Weather Balloon
 
-![alt](img/DALL-E-weatherballoonsensorpayload.png)@dall-e
+![alt](img/DALL-E-weatherballoonsensorpayload.png){width=75%}@dall-e
 
-## How Far can they go
+## How Far can a balloon go?
 
-These balloons can circumnavigate the world several times 
+Pico balloons can circumnavigate the world several times 
 
-![](img/picoBallon_world_circum.png)@picoballon
+![](img/picoBallon_world_circum.png){width=85%}@picoballon
 
 
-## STEM Issues
+## Why do Students have <br>low STEM interest
 
 Many students do not see the value nor the purpose of a STEM education.  
 <br>
 
 ### Why no interest? 
 
+:::{.columns}
+::::{.column width=78%}
 * STEM activities tend to be focused on a single aspect of a scientific field. 
     * Students do not shout out Eureka after seeing how many pennies an aluminum boat can hold. They simply record the number of pennies and wonder how this knowledge is useful in the real world.
+::::
+::::{.column width=20%}
+ ![](img/DALL-E_pennyBoat.png)
+::::
+:::
 * Few opportunities for students to see how scientists do experiments to make the world better.   
 * Few interactions with Scientist, especially in lower income brackets,
    *   One needs role models to help one visualize that this career can be for them. 
 * Don't see how one can make a living doing science.  
-    
 
 ## STEM Magnetic Mapping
 
@@ -238,13 +245,22 @@ This STEM project is designed to address these issues.
 
 <br>
 
-It involves multiple fields of science and engineering: 
+It involves multiple fields of science and engineering:
 
+:::{.columns}
+::::{.column width=75%}
 * Earth Science, 
 * Physical Science and 
 * Electrical and Mechanical Engineering 
 
 Integrated into a single project for students grades eight through ten.  
+::::
+::::{.column width=20%}
+![](img/stem-mag.png) 
+::::
+:::
+
+
 
 <br>
 It also rewards (via milestone achievements rewards: cash and/or prizes) for their work and their measurements supply scientists with information needed to make magnetic maps.  
@@ -254,14 +270,14 @@ Lastly, students are guided by college student mentors in a STEM field so that t
 
 
 
-## Student
+## Magnetic Mapping Flow
 
 :::{.columns}
 ::::{.column width=10%}
 
 ::::
 ::::{.column width=80%}
-![](img/STEM_MagMeasurement-2023%20(1).png) 
+![](img/STEM-mag.svg) 
 ::::
 :::
 
@@ -277,10 +293,10 @@ Looking for Ohio schools teachers to partner with to:
 
 <br>
 
-### Contact
+### Contact:
 
 #### Evelyn J. Boettcher
-#### Evelyn.boettcher@didactex.com
+##### Evelyn.boettcher@didactex.com
 
 ::::
 ::::{.column width=29%}

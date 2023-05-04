@@ -4,7 +4,7 @@
     "href": "talk.html#outline",
     "title": "Student Aided Magnetic Mapping",
     "section": "Outline",
-    "text": "Outline\n\n\n\nWhy is a magnetic anomoly map needed\nWhat is magnetic anomoly\nHow are magnetic maps made now\nHow students contribute to science\n\nTargeted grades 8-10\n\nWhat students gain\n\nPaided Milestone achievements\nScienific contributer\nScience mentors near their age\n\nHow to be involved\n\n\n (NASA (1976))"
+    "text": "Outline\n\n\n\nWhy is a magnetic anomoly map needed\nWhat is magnetic anomoly\nHow are magnetic maps made now\nHow students contribute to science\n\nTargeted grades 8-10\n\nWhat students gain\n\nPaided milestone achievements\nScienific contributor\nScience mentors near their age\n\nHow to be involved\n\n\n (NASA (1976))"
   },
   {
     "objectID": "talk.html#why-magnetic-anomoly-map-are-needed",
@@ -14,13 +14,6 @@
     "text": "Why Magnetic Anomoly Map are needed"
   },
   {
-    "objectID": "talk.html#magnetic-anomoly-mapping",
-    "href": "talk.html#magnetic-anomoly-mapping",
-    "title": "Student Aided Magnetic Mapping",
-    "section": "Magnetic Anomoly Mapping",
-    "text": "Magnetic Anomoly Mapping\n\n\n\nSTEM MAG MAPPING\n\n\n\nChoksi, Nishant. 2016. “Death by GPS.” The Guardian. 2016. https://www.theguardian.com/technology/2016/jun/25/gps-horror-stories-driving-satnav-greg-milner.\n\n\nDALL-E, Evelyn J. Boettcher. 2023. “Dall-e Generated Image Through Prompts.” 2023. https://openai.com/product/dall-e-2.\n\n\nLo, Chris. 2019. “‘Ship Navigation Risks: Defining the Threat of GPS Spoofing.’” Ship Technology. 2019. https://www.ship-technology.com/features/ship-navigation-risks/."
-  },
-  {
     "objectID": "talk.html#why-magnetic-anomoly-map-are-needed-1",
     "href": "talk.html#why-magnetic-anomoly-map-are-needed-1",
     "title": "Student Aided Magnetic Mapping",
@@ -28,67 +21,11 @@
     "text": "Why Magnetic Anomoly Map are needed\nPirates!\n\n\n (DALL-E (2023))\n\n (DALL-E (2023))"
   },
   {
-    "objectID": "talk.html#need-non-gps-navigation",
-    "href": "talk.html#need-non-gps-navigation",
+    "objectID": "talk.html#gps-is-not-always-reliable",
+    "href": "talk.html#gps-is-not-always-reliable",
     "title": "Student Aided Magnetic Mapping",
-    "section": "Need Non GPS Navigation",
-    "text": "Need Non GPS Navigation\nMagnetic maps are needed for navigation in non GPS environments.\n\nIn GPS Environments\n It is too easy for bad actors (aka Pirates) to spoof GPS signals to divert cargo ships or airplanes. There are growing concerns that the shipping industry is vulnerable to GPS spoofing (Lo (2019))\n\n\n\nGPS spoofing has the real risk of keeping ships at sea longer than necessary, or even causing ships to collide.\n These same concerns are amplified in the air industry where planes have the additional worry of being tricked into flying into dangerous no fly zones.\n\nGPS: Proceed for 10 more miles\n (Choksi (2016))"
-  },
-  {
-    "objectID": "talk.html",
-    "href": "talk.html",
-    "title": "Student Aided Magnetic Mapping",
-    "section": "",
-    "text": "Why is a magnetic anomoly map needed\nWhat is magnetic anomoly\nHow are magnetic maps made now\nHow students contribute to science\n\nTargeted grades 8-10\n\nWhat students gain\n\nPaided Milestone achievements\nScienific contributer\nScience mentors near their age\n\nHow to be involved\n\n\n (NASA (1976))"
-  },
-  {
-    "objectID": "talk.html#magnetic-anomoly",
-    "href": "talk.html#magnetic-anomoly",
-    "title": "Student Aided Magnetic Mapping",
-    "section": "Magnetic Anomoly",
-    "text": "Magnetic Anomoly\nThe Earth’s Magnetic Field has variations do to field locked in it’s crust.\n\nThese fields change very slowly\n\nGeologic Timescale (~20,000 year time scale)\n\n\n USGS (2002)"
-  },
-  {
-    "objectID": "talk.html#how-a-magnetic-maps-are-made-now",
-    "href": "talk.html#how-a-magnetic-maps-are-made-now",
-    "title": "Student Aided Magnetic Mapping",
-    "section": "How a Magnetic Maps are Made Now",
-    "text": "How a Magnetic Maps are Made Now\n\n\nMaps are made using special equipted planes.\n \n\nIt is a slow process and\nData needs to be cleaned to remove the plane’s magnetic field.\n\n\n Nielsen (2023)\n\n\n\n\n Vaughn (2021)\n\nDALL-E (2023)"
-  },
-  {
-    "objectID": "talk.html#why-higher-resolution",
-    "href": "talk.html#why-higher-resolution",
-    "title": "Student Aided Magnetic Mapping",
-    "section": "Why higher resolution",
-    "text": "Why higher resolution"
-  },
-  {
-    "objectID": "talk.html#weather-balloon",
-    "href": "talk.html#weather-balloon",
-    "title": "Student Aided Magnetic Mapping",
-    "section": "99 Weather Balloon",
-    "text": "99 Weather Balloon"
-  },
-  {
-    "objectID": "talk.html#student",
-    "href": "talk.html#student",
-    "title": "Student Aided Magnetic Mapping",
-    "section": "Student",
-    "text": "Student"
-  },
-  {
-    "objectID": "talk.html#how-to-be-involved",
-    "href": "talk.html#how-to-be-involved",
-    "title": "Student Aided Magnetic Mapping",
-    "section": "How to be involved",
-    "text": "How to be involved\n\n\nLooking for Ohio schools teachers to partner with to:\n\nEvaluate kits 2023-2024\n\n\nContact\nEvelyn J. Boettcher\nEvelyn.boettcher@didactex.com\n\n\n\n\nMagnetic Anomally Mapping for Safer Navigation"
-  },
-  {
-    "objectID": "talk.html#earths-magnetic-field",
-    "href": "talk.html#earths-magnetic-field",
-    "title": "Student Aided Magnetic Mapping",
-    "section": "Earth’s Magnetic Field",
-    "text": "Earth’s Magnetic Field\n\n\n (NASA (1976))\n\n ((USGS?))"
+    "section": "GPS is not Always Reliable",
+    "text": "GPS is not Always Reliable\n It is too easy for bad actors (aka Pirates) to spoof GPS signals to divert cargo ships or airplanes. There are growing concerns that the shipping industry is vulnerable to GPS spoofing (Lo (2019))\n\n\n\nGPS spoofing has the real risk of keeping ships at sea longer than necessary, or even causing ships to collide.\n These same concerns are amplified in the aviation industry. In addition, Planes have the additional worry of being tricked into flying into dangerous no fly zones.\n\nGPS: Proceed for 10 more miles\n (Choksi (2016))"
   },
   {
     "objectID": "talk.html#earths-magnetic-field-1",
@@ -98,11 +35,11 @@
     "text": "Earth’s Magnetic Field\n\n\n NASA (1976)\n\nEarth Field: 25,000nT - 65,000nT (nanotesla)\nMRI’s: 1 Tesla = 1,000,000,000 nT\n\n\n NOAA (2020)"
   },
   {
-    "objectID": "talk.html#why-higher-resolutions",
-    "href": "talk.html#why-higher-resolutions",
+    "objectID": "talk.html#magnetic-anomoly",
+    "href": "talk.html#magnetic-anomoly",
     "title": "Student Aided Magnetic Mapping",
-    "section": "Why Higher Resolutions",
-    "text": "Why Higher Resolutions\nCan you use this map to drive to the grocery store?\n\n\n Google_Maps (n.d.)\n\n USGS (2002)"
+    "section": "Magnetic Anomoly",
+    "text": "Magnetic Anomoly\nThe Earth’s Magnetic Field has variations do to field locked in it’s crust.\n\nThese fields change very slowly\n\nGeologic Timescale (~20,000 year time scale)\n\n\n USGS (2002)"
   },
   {
     "objectID": "talk.html#magnetic-anomoly-1",
@@ -119,11 +56,18 @@
     "text": "Why make another map\n\nCurrent maps are low resolution.\n Need higher resolutions for navigation"
   },
   {
-    "objectID": "talk.html#solution-99-weather-balloon",
-    "href": "talk.html#solution-99-weather-balloon",
+    "objectID": "talk.html#why-higher-resolutions",
+    "href": "talk.html#why-higher-resolutions",
     "title": "Student Aided Magnetic Mapping",
-    "section": "Solution: 99 Weather Balloon",
-    "text": "Solution: 99 Weather Balloon"
+    "section": "Why Higher Resolutions",
+    "text": "Why Higher Resolutions\nCan you use this map to drive to the grocery store?\n\n\n Google_Maps (n.d.)\n\n USGS (2002)"
+  },
+  {
+    "objectID": "talk.html#how-a-magnetic-maps-are-made-now",
+    "href": "talk.html#how-a-magnetic-maps-are-made-now",
+    "title": "Student Aided Magnetic Mapping",
+    "section": "How a Magnetic Maps are Made Now",
+    "text": "How a Magnetic Maps are Made Now\n\n\nMaps are made using special equipped planes.\n \n\nIt is a slow process and\nData needs to be cleaned to remove the plane’s magnetic field.\n\n\n Nielsen (2023)\n\n\n\n\n\n\n Vaughn (2021)\n\n DALL-E (2023)"
   },
   {
     "objectID": "talk.html#solution",
@@ -133,31 +77,45 @@
     "text": "Solution"
   },
   {
-    "objectID": "talk.html#how-far-can-they-go",
-    "href": "talk.html#how-far-can-they-go",
+    "objectID": "talk.html#how-far-can-a-balloon-go",
+    "href": "talk.html#how-far-can-a-balloon-go",
     "title": "Student Aided Magnetic Mapping",
-    "section": "How Far can they go",
-    "text": "How Far can they go\nThese balloons can circumnavigate the world several times\nBrown (2020)"
+    "section": "How Far can a balloon go?",
+    "text": "How Far can a balloon go?\nPico balloons can circumnavigate the world several times\nBrown (2020)"
   },
   {
-    "objectID": "talk.html#stem-issues",
-    "href": "talk.html#stem-issues",
+    "objectID": "talk.html#why-do-students-have-low-stem-interest",
+    "href": "talk.html#why-do-students-have-low-stem-interest",
     "title": "Student Aided Magnetic Mapping",
-    "section": "STEM Issues",
-    "text": "STEM Issues\nMany students do not see the value nor the purpose of a STEM education.\n\nWhy no interest?\n\nSTEM activities tend to be focused on a single aspect of a scientific field.\n\nStudents do not shout out Eureka after seeing how many pennies an aluminum boat can hold. They simply record the number of pennies and wonder how this knowledge is useful in the real world.\n\nFew opportunities for students to see how scientists do experiments to make the world better.\n\nFew interactions with Scientist, especially in lower income brackets,\n\nOne needs role models to help one visualize that this career can be for them.\n\nDon’t see how one can make a living doing science."
+    "section": "Why do Students have low STEM interest",
+    "text": "Why do Students have low STEM interest\nMany students do not see the value nor the purpose of a STEM education.\n\nWhy no interest?\n\n\n\nSTEM activities tend to be focused on a single aspect of a scientific field.\n\nStudents do not shout out Eureka after seeing how many pennies an aluminum boat can hold. They simply record the number of pennies and wonder how this knowledge is useful in the real world.\n\n\n\n\n\n\n\nFew opportunities for students to see how scientists do experiments to make the world better.\n\nFew interactions with Scientist, especially in lower income brackets,\n\nOne needs role models to help one visualize that this career can be for them.\n\nDon’t see how one can make a living doing science."
   },
   {
     "objectID": "talk.html#stem-magnetic-mapping",
     "href": "talk.html#stem-magnetic-mapping",
     "title": "Student Aided Magnetic Mapping",
     "section": "STEM Magnetic Mapping",
-    "text": "STEM Magnetic Mapping\nThis STEM project is designed to address these issues.\n\nIt involves multiple fields of science and engineering:\n\nEarth Science,\nPhysical Science and\nElectrical and Mechanical Engineering\n\nIntegrated into a single project for students grades eight through ten.\n It also rewards (via milestone achievements rewards: cash and/or prizes) for their work and their measurements supply scientists with information needed to make magnetic maps.\n Lastly, students are guided by college student mentors in a STEM field so that they can see people close to their age going into this field."
+    "text": "STEM Magnetic Mapping\nThis STEM project is designed to address these issues.\n\nIt involves multiple fields of science and engineering:\n\n\n\nEarth Science,\nPhysical Science and\nElectrical and Mechanical Engineering\n\nIntegrated into a single project for students grades eight through ten.\n\n\n\n\n It also rewards (via milestone achievements rewards: cash and/or prizes) for their work and their measurements supply scientists with information needed to make magnetic maps.\n Lastly, students are guided by college student mentors in a STEM field so that they can see people close to their age going into this field."
+  },
+  {
+    "objectID": "talk.html#magnetic-mapping-flow",
+    "href": "talk.html#magnetic-mapping-flow",
+    "title": "Student Aided Magnetic Mapping",
+    "section": "Magnetic Mapping Flow",
+    "text": "Magnetic Mapping Flow"
+  },
+  {
+    "objectID": "talk.html#how-to-be-involved",
+    "href": "talk.html#how-to-be-involved",
+    "title": "Student Aided Magnetic Mapping",
+    "section": "How to be involved",
+    "text": "How to be involved\n\n\nLooking for Ohio schools teachers to partner with to:\n\nEvaluate kits 2023-2024\n\n\nContact:\nEvelyn J. Boettcher\nEvelyn.boettcher@didactex.com\n\n\n\n\nMagnetic Anomally Mapping for Safer Navigation"
   },
   {
     "objectID": "talk.html#references",
     "href": "talk.html#references",
     "title": "Student Aided Magnetic Mapping",
     "section": "References",
-    "text": "References\n\n\n\nSTEM MAG MAPPING\n\n\n\nBrown, Bill. 2020. “Send an Amateur Radio Balloon Around the World.” 2020. https://vepimg.b8cdn.com/uploads/vjfnew/1073/content/images/1596949203send-an-amateur-radio-balloon-around-the-world-bill-brown-wb8elk-pdf1596949203.pdf.\n\n\nChoksi, Nishant. 2016. “Death by GPS.” The Guardian. 2016. https://www.theguardian.com/technology/2016/jun/25/gps-horror-stories-driving-satnav-greg-milner.\n\n\nDALL-E, Evelyn J. Boettcher. 2023. “Dall-e Generated Image Through Prompts.” 2023. https://openai.com/product/dall-e-2.\n\n\nGoogle_Maps. n.d. https://www.google.com/maps.\n\n\nLo, Chris. 2019. “‘Ship Navigation Risks: Defining the Threat of GPS Spoofing.’” Ship Technology. 2019. https://www.ship-technology.com/features/ship-navigation-risks/.\n\n\nNASA. 1976. 1976.\n\n\nNielsen, Aaron. 2023. 2023. https://afit-eeng-magnav.github.io/2023-PLANS-MagNav-Workshop/.\n\n\nNOAA. 2020. 2020. https://www.ncei.noaa.gov/products/world-magnetic-model.\n\n\nUSGS. 2002. 2002. https://pubs.usgs.gov/of/2002/ofr-02-361/mag_home.htm.\n\n\nVaughn, Stacy. 2021. 2021. https://www.445aw.afrc.af.mil/News/Article-Display/Article/2738695/c-17-good-platform-for-magnav-development/."
+    "text": "References\n\n\n\nSTEM MAG MAPPING\n\n\n\nBrown, Bill. 2020. “Send an Amateur Radio Balloon Around the World.” 2020. https://vepimg.b8cdn.com/uploads/vjfnew/1073/content/images/1596949203send-an-amateur-radio-balloon-around-the-world-bill-brown-wb8elk-pdf1596949203.pdf.\n\n\nChoksi, Nishant. 2016. “Death by GPS.” The Guardian. 2016. https://www.theguardian.com/technology/2016/jun/25/gps-horror-stories-driving-satnav-greg-milner.\n\n\nDALL-E, Evelyn J. Boettcher. 2023. “Dall-e Generated Image Through Prompts.” 2023. https://openai.com/product/dall-e-2.\n\n\nEndo, K. n.d. https://www.ngdc.noaa.gov/geomag/icons/solarexp.jpg.\n\n\nGoogle_Maps. n.d. https://www.google.com/maps.\n\n\nLo, Chris. 2019. “‘Ship Navigation Risks: Defining the Threat of GPS Spoofing.’” Ship Technology. 2019. https://www.ship-technology.com/features/ship-navigation-risks/.\n\n\nNASA. 1976. 1976.\n\n\nNielsen, Aaron. 2023. 2023. https://afit-eeng-magnav.github.io/2023-PLANS-MagNav-Workshop/.\n\n\nNOAA. 2020. 2020. https://www.ncei.noaa.gov/products/world-magnetic-model.\n\n\nUSGS. 2002. 2002. https://pubs.usgs.gov/of/2002/ofr-02-361/mag_home.htm.\n\n\nVaughn, Stacy. 2021. 2021. https://www.445aw.afrc.af.mil/News/Article-Display/Article/2738695/c-17-good-platform-for-magnav-development/."
   }
 ]
